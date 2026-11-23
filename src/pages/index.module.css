@@ -20,4 +20,25 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: nowrap;
+  gap: 1rem;
+}
+
+@media screen and (max-width: 520px) {
+  .buttons {
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
+  .buttons :global(.button) {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1 1 0;
+    min-width: 0;
+    white-space: normal;
+    line-height: 1.2;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
 }

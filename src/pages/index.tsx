@@ -22,6 +22,11 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
+            to="/docs/category/mez-resources">
+            Coach Resources
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
             to="/docs/intro">
             <FIRSTLogo style={{height: '20px', width: 'auto', marginRight: '8px'}} /> 
             FRC Starter Guide 
