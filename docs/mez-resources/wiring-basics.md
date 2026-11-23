@@ -19,6 +19,9 @@ MEZ Teacher/Coach Workshop
 - Black to black and red to red
 - Yellow to yellow and green to green
 
+![Photo from Wiring in FRC](./img/wiring-basics/wiring-in-frc-1.jpg)
+
+
 ## Wire Gauge
 
 - Gauge or AWG (American Wire Gauge) is the size of wire
@@ -29,6 +32,10 @@ MEZ Teacher/Coach Workshop
 - 18-22 for light power and signal wires
 - There are always exceptions
 
+![Photo 1 from Wire Gauge](./img/wiring-basics/wire-gauge-1.jpg)
+![Photo 2 from Wire Gauge](./img/wiring-basics/wire-gauge-2.jpg)
+
+
 ## Connections
 
 - One of the biggest failure points for robots
@@ -38,6 +45,10 @@ MEZ Teacher/Coach Workshop
 - Soldering
 - Care and aggressive testing are more important than which method you use
 
+![Photo 1 from Connections](./img/wiring-basics/connections-1.jpg)
+![Photo 2 from Connections](./img/wiring-basics/connections-2.jpg)
+
+
 ## Wiring Tools
 
 ### Wire Cutters
@@ -45,14 +56,23 @@ MEZ Teacher/Coach Workshop
 - Designed to cut metallic wire without quickly getting dull.
 - Often combined with wire strippers in a single tool.
 
+![Photo of Wire Cutters](./img/wiring-basics/wiring-tools-1.jpg)
+
+
 ### Wire Strippers
 
 Designed to pull the ends of sheathing off of a run of wire.
+
+![Photo of Wire Strippers](./img/wiring-basics/wiring-tools-2.jpg)
+
 
 ### Crimpers
 
 - Crushes some kind of connector onto a wire.
 - Can be generic, but also there are many designed for certain kinds of crimps.
+
+![Photo of Crimpers](./img/wiring-basics/wiring-tools-3.jpg)
+
 
 ## Flush Cutters
 
@@ -60,6 +80,9 @@ Designed to pull the ends of sheathing off of a run of wire.
 - Non-flush ziptie cuts are surprisingly dangerous
 - The MEZ will buy a large stock of these before the season
 - Safety glasses are very important - the cut piece will sometimes go flying
+
+![Photo from Flush Cutters](./img/wiring-basics/flush-cutters-1.jpg)
+
 
 ## Shorts
 
@@ -70,12 +93,19 @@ Designed to pull the ends of sheathing off of a run of wire.
 - A loose strand of wire sticking out of a connector
 - Debris on electrical components
 
+![Photo from Shorts](./img/wiring-basics/shorts-1.jpg)
+
+
 ## Fuses
 
 - Single-use circuit breaker
 - If there’s too much current, it literally breaks the circuit, in this case by burning
 - Unlike snap-action breakers, once a fuse burns, it must be physically replaced
 - If you don’t fix the short, the replacement will immediately burn out too
+
+![Photo 1 from Fuses](./img/wiring-basics/fuses-1.jpg)
+![Photo 2 from Fuses](./img/wiring-basics/fuses-2.jpg)
+
 
 ## Technical Practice
 

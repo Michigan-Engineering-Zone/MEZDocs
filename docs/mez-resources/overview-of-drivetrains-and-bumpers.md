@@ -15,6 +15,9 @@ MEZ Teacher/Coach Workshop
 - There are two main drivetrain options: tank and swerve.
 - The best choice varies by team and depends on your resources.
 
+![Photo from What is a Drivetrain?](./img/overview-of-drivetrains-and-bumpers/what-is-a-drivetrain-1.jpg)
+
+
 ## Tank Drive
 
 - The starter drivetrain
@@ -24,6 +27,9 @@ MEZ Teacher/Coach Workshop
 - Comes free with your season registration unless you opt out
 - Lets you focus on scoring mechanisms
 
+![Photo from Tank Drive](./img/overview-of-drivetrains-and-bumpers/tank-drive-1.jpg)
+
+
 ## Swerve Drive
 
 - A more advanced option, and more competitive
@@ -32,6 +38,10 @@ MEZ Teacher/Coach Workshop
 - A lot easier than it used to be, but far from trivial
 - Expensive - assume $1200+ for modules, plus eight motors and controllers
 - If you want swerve, get it working in the fall. It is not recommended to switch to swerve during a build season.
+
+![Photo 1 from Swerve Drive](./img/overview-of-drivetrains-and-bumpers/swerve-drive-1.jpg)
+![Photo 2 from Swerve Drive](./img/overview-of-drivetrains-and-bumpers/swerve-drive-2.jpg)
+
 
 ## Which should I pick?
 
@@ -71,6 +81,11 @@ You will never regret a season because your robot didn’t have swerve.
 - Make sure whatever you pick is compatible with the motors you have.
 - If you go swerve, remember to opt out of the kit chassis.
 
+![Photo 1 from How do I get it?](./img/overview-of-drivetrains-and-bumpers/how-do-i-get-it-1.jpg)
+![Photo 2 from How do I get it?](./img/overview-of-drivetrains-and-bumpers/how-do-i-get-it-2.jpg)
+![Photo 3 from How do I get it?](./img/overview-of-drivetrains-and-bumpers/how-do-i-get-it-3.jpg)
+
+
 ## Bumpers
 
 - Bumpers seem like an afterthought but they are a critical robot component
@@ -78,9 +93,15 @@ You will never regret a season because your robot didn’t have swerve.
 - The rules change a little bit year to year and the specifics matter a lot
 - Even so, the gist is you need foam protecting most or all of your robot frame
 
+![Photo from Bumpers](./img/overview-of-drivetrains-and-bumpers/bumpers-1.jpg)
+
+
 ## Bumper Day
 
 - The MEZ will do Bumper Day again in 2027
 - Friends come in and help mass-produce bumper components for every team
 - This includes fabric, foam, wood backing, and numbers
 - Try to attend, but either way, take bumpers seriously and allocate time in advance towards building them!
+
+![Photo from Bumper Day](./img/overview-of-drivetrains-and-bumpers/bumper-day-1.jpg)
+

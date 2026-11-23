@@ -3,12 +3,14 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 
 const FIRSTLogo = require('@site/static/img/FIRSTLogo.svg').default;
+
+// Set this to true to show the FRC Starter Guide button again.
+const showFrcStarterGuide = false;
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -25,12 +27,14 @@ function HomepageHeader() {
             to="/docs/category/mez-resources">
             Coach Resources
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            <FIRSTLogo style={{height: '20px', width: 'auto', marginRight: '8px'}} /> 
-            FRC Starter Guide 
-          </Link>
+          {showFrcStarterGuide && (
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/intro">
+              <FIRSTLogo style={{height: '20px', width: 'auto', marginRight: '8px'}} />
+              FRC Starter Guide
+            </Link>
+          )}
         </div>
       </div>
     </header>
@@ -44,9 +48,6 @@ export default function Home(): ReactNode {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
     </Layout>
   );
 }

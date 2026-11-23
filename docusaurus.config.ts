@@ -50,22 +50,17 @@ const config: Config = {
           // Disable versioning for now - use current docs as 2025
           includeCurrentVersion: true,
           onlyIncludeVersions: ['current'],
+          // Hidden for now. Delete these two patterns to publish the categories again.
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+            'system-setup/**',
+            'robot-systems/**',
+          ],
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Michigan-Engineering-Zone/MEZ_Docs/edit/main/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -78,7 +73,7 @@ const config: Config = {
       '@easyops-cn/docusaurus-search-local',
       {
         indexDocs: true,
-        indexBlog: true,
+        indexBlog: false,
         indexPages: false,
         language: ['en'],
       },
@@ -109,7 +104,6 @@ const config: Config = {
           position: 'left',
           label: 'Guide',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/Michigan-Engineering-Zone/MEZ_Docs',
           label: 'GitHub',
@@ -145,20 +139,7 @@ const config: Config = {
         //       href: 'https://x.com/docusaurus',
         //     },
         //   ],
-        // },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            // {
-            //   label: 'GitHub',
-            //   href: 'https://github.com/facebook/docusaurus',
-            // },
-          ],
-        },
+        //         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} The Michigan Engineering Zone. Built with Docusaurus.`,
     },

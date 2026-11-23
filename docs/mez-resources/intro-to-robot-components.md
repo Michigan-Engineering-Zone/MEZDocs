@@ -59,6 +59,9 @@ MEZ Teacher/Coach Workshop
 - Replacing the RoboRio starting this upcoming season
 - You can learn a bit more if you want to, or you can wait
 
+![Photo from SystemCore](./img/intro-to-robot-components/systemcore-1.jpg)
+
+
 ## Power Distribution Board
 
 - Sits between your battery and everything else
@@ -67,6 +70,11 @@ MEZ Teacher/Coach Workshop
 - PDP, or power distribution panel
 - PDP 2
 - PDH, or power distribution hub
+
+![Photo 1 from Power Distribution Board](./img/intro-to-robot-components/power-distribution-board-1.jpg)
+![Photo 2 from Power Distribution Board](./img/intro-to-robot-components/power-distribution-board-2.jpg)
+![Photo 3 from Power Distribution Board](./img/intro-to-robot-components/power-distribution-board-3.jpg)
+
 
 ## Motors
 
@@ -81,6 +89,11 @@ MEZ Teacher/Coach Workshop
 - Rev NEOs - “normal”, vortex, and mini (550)
 - WCP Kraken - normal and mini
 
+![Photo 1 from Motors](./img/intro-to-robot-components/motors-1.jpg)
+![Photo 2 from Motors](./img/intro-to-robot-components/motors-2.jpg)
+![Photo 3 from Motors](./img/intro-to-robot-components/motors-3.jpg)
+
+
 ## Motor Controllers
 
 - SparkMax
@@ -93,7 +106,15 @@ MEZ Teacher/Coach Workshop
 - For Krakens
 - Built in so you don’t think much about it
 
+![Photo 1 from Motor Controllers](./img/intro-to-robot-components/motor-controllers-1.jpg)
+![Photo 2 from Motor Controllers](./img/intro-to-robot-components/motor-controllers-2.jpg)
+![Photo 3 from Motor Controllers](./img/intro-to-robot-components/motor-controllers-3.jpg)
+
+
 ## Motors - Performance
+
+![Photo from Motors - Performance](./img/intro-to-robot-components/motors-performance-1.jpg)
+
 
 ## Gyroscopes
 
@@ -103,6 +124,11 @@ MEZ Teacher/Coach Workshop
 - Helpful for programming
 - Several common models
 - May be built into SystemCore
+
+![Photo 1 from Gyroscopes](./img/intro-to-robot-components/gyroscopes-1.jpg)
+![Photo 2 from Gyroscopes](./img/intro-to-robot-components/gyroscopes-2.jpg)
+![Photo 3 from Gyroscopes](./img/intro-to-robot-components/gyroscopes-3.jpg)
+
 
 ## Encoders
 
@@ -118,14 +144,26 @@ MEZ Teacher/Coach Workshop
 - Swerve steering
 - The position of an arm
 
-## Additional Power Items
+![Photo 1 from Encoders](./img/intro-to-robot-components/encoders-1.jpg)
+![Photo 2 from Encoders](./img/intro-to-robot-components/encoders-2.jpg)
 
-- Sometimes you want extra power slots for small items
-- CTRE VRM
-- REV Mini-PDH
 
 ## Additional Power Items
 
 - Sometimes you want extra power slots for small items
 - CTRE VRM
 - REV Mini-PDH
+
+![Photo 1 from Additional Power Items](./img/intro-to-robot-components/additional-power-items-1.jpg)
+![Photo 2 from Additional Power Items](./img/intro-to-robot-components/additional-power-items-2.jpg)
+
+
+## Additional Power Items
+
+- Sometimes you want extra power slots for small items
+- CTRE VRM
+- REV Mini-PDH
+
+![Photo 1 from Additional Power Items](./img/intro-to-robot-components/additional-power-items-1-b.jpg)
+![Photo 2 from Additional Power Items](./img/intro-to-robot-components/additional-power-items-2-b.jpg)
+
