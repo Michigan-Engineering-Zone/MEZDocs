@@ -18,6 +18,8 @@ In order to attend the MEZ, you'll need a school agreement form on file. This is
 
 Once you have your agreement form on file, you're welcome to start attending the MEZ! Make sure to check with us for our current hours before scheduling a trip. In general, the days/times we're open for teams to come are Tuesdays and Thursdays from 4-7pm during the fall, and Monday-Thursday from 4-7pm, plus Saturday from 11-4pm during the FRC build season. Again, please make sure before scheduling something, in case we're out-of-season or had to change the schedule.
 
+If you are a DPSCD team and a school bus arriving to your school at 4:30 would be helpful for transportation, see the [Bus Requests](./bus-requests-dpscd-teams) page for more information about scheduling one.
+
 ## What should I bring to the MEZ?
 
 We recommend coming to the MEZ with your robot, tools, and any build supplies or parts you plan on working with during the day, and also a plan for what you'll work on. The MEZ provides a lot of resources, and we also have structured content on a lot of days, and that can be part of your plan. We do not replace the role of a coach, so it will still be up to you to supervise your team and have a plan for each day. If you're not sure what a good plan would be for any given day, feel free to reach out to us and we can work with you to help create one.
