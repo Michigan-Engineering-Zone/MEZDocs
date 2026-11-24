@@ -22,7 +22,10 @@ If you are a DPSCD team and a school bus arriving to your school at 4:30 would b
 
 ## What should I bring to the MEZ?
 
-We recommend coming to the MEZ with your robot, tools, and any build supplies or parts you plan on working with during the day, and also a plan for what you'll work on. The MEZ provides a lot of resources, and we also have structured content on a lot of days, and that can be part of your plan. We do not replace the role of a coach, so it will still be up to you to supervise your team and have a plan for each day. If you're not sure what a good plan would be for any given day, feel free to reach out to us and we can work with you to help create one.
+We recommend coming to the MEZ with:
+- Your robot, tools, and any build supplies or parts you plan on working with during the day
+- Closed-toed shoes for every participant (student and adult)
+- A plan for what you'll work on. The MEZ provides a lot of resources, and we also have structured content on a lot of days, and that can be part of your plan. We do not replace the role of a coach, so it will still be up to you to supervise your team and have a plan for each day. If you're not sure what a good plan would be for any given day, feel free to reach out to us and we can work with you to help create one.
 
 ## Anything else I should know?
 
