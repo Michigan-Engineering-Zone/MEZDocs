@@ -4,12 +4,6 @@ sidebar_position: 10
 
 # MEZ Resources & Expectations
 
-## MEZ Resources and Expectations
-
-MEZ Teacher/Coach Workshop
-
-[tinyurl.com/mezexpect](https://tinyurl.com/mezexpect)
-
 ## The MEZ Community
 
 The purpose of the MEZ is to help as many students and coaches be as possible, be as successful as possible. To this end we offer a number of resources and programs to teams to help them achieve success on the field, off the field, and within their academic and professional lives.
