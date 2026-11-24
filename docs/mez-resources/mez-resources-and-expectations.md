@@ -12,15 +12,11 @@ MEZ Teacher/Coach Workshop
 
 ## The MEZ Community
 
-- Everything the MEZ does is a tradeoff in terms of what to use our resources on
-- More technical mentors vs more materials for teams vs robot transportation etc
-- We want teams to be aware of what we can offer
-- We also request teams respect our guidelines and requests
-- If you have suggestions for improving things, please speak up
-- I promise I listen to and consider every suggestion - even if I don’t end up doing it
+The purpose of the MEZ is to help as many students and coaches be as possible, be as successful as possible. To this end we offer a number of resources and programs to teams to help them achieve success on the field, off the field, and within their academic and professional lives.
 
 ## Resources - Programs
 
+Here's a brief list of programs that the MEZ offers:
 - Robotics
 - Fall workshops
 - Detroit City Championship
@@ -35,6 +31,7 @@ MEZ Teacher/Coach Workshop
 
 ## Resources - Robotics
 
+Here are some things the MEZ does specifically for schools participating in its Robotics program:
 - Food every day
 - Access to technical mentors and machine shop supervision
 - Parts and raw materials
@@ -50,7 +47,7 @@ MEZ Teacher/Coach Workshop
 
 ## Expectations
 
-As part of the community, we also have some things we request from you
+As part of the community, we also have some things we request from you, in order to ensure the best experience for everyone:
 
 ## Expectations - Everyone
 
@@ -65,6 +62,7 @@ As part of the community, we also have some things we request from you
 - Follow all safety rules
 - Safety glasses
 - Ears unobstructed
+- Everyone wears closed-toed shoes
 - Loose hair/clothing/accessories/etc tied back
 - Please, no singing/whistling/clapping/loud music/etc
 
