@@ -46,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Michigan-Engineering-Zone/MEZ_Docs/edit/main/',
+            'https://github.com/Michigan-Engineering-Zone/MEZDocs/edit/workshop-info/',
           // Disable versioning for now - use current docs as 2025
           includeCurrentVersion: true,
           onlyIncludeVersions: ['current'],
