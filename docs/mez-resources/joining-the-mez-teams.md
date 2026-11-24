@@ -14,9 +14,13 @@ The first step is simply to reach out to us and let us know you're interested! Y
 
 In order to attend the MEZ, you'll need a school agreement form on file. This is a <a href="https://form.jotform.com/262464427509058" target="_blank" rel="noopener noreferrer">short document</a> to be signed electronically by the team's coach and the school's principal. It outlines the responsibilities of the school, their coach, and the MEZ to ensure that every student is safe and supervised, and that every team can receive full support from the MEZ. Please have your coach and principal sign the form before attending the MEZ.
 
+## Tell us what day or days you're planning on attending
+
+We order food for attendees every single day, so having an accurate count of people ensures that there will be food for you and your students when you arrive.
+
 ## Bring your students to the MEZ!
 
-Once you have your agreement form on file, you're welcome to start attending the MEZ! Make sure to check with us for our current hours before scheduling a trip. In general, the days/times we're open for teams to come are Tuesdays and Thursdays from 4-7pm during the fall, and Monday-Thursday from 4-7pm, plus Saturday from 11-4pm during the FRC build season. Again, please make sure before scheduling something, in case we're out-of-season or had to change the schedule.
+Once you have your agreement form on file and have told us you're coming, you're welcome to start attending the MEZ! Make sure to check with us for our current hours before scheduling a trip. In general, the days/times we're open for teams to come are Tuesdays and Thursdays from 4-7pm during the fall, and Monday-Thursday from 4-7pm, plus Saturday from 11-4pm during the FRC build season. Again, please make sure before scheduling something, in case we're out-of-season or had to change the schedule.
 
 If you are a DPSCD team and a school bus arriving to your school at 4:30 would be helpful for transportation, see the [Bus Requests](./bus-requests-dpscd-teams) page for more information about scheduling one.
 
